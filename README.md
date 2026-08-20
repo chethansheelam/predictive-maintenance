@@ -30,9 +30,6 @@ The result page shows:
 
 ## Run
 
-Windows: double-click `run_project.bat`
-
-Or:
 ```bash
 python -m pip install -r requirements.txt
 python app.py
